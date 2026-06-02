@@ -6,12 +6,12 @@
 Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming interviews.
-My experience in freelancing and training over 1000+ students..<br>- 📫 How to reach me: ... vasukumarpalani@gmail.com
+My experience in freelancing ..<br>- 📫 How to reach me: ... rachakondacharvik4@gmail.com
 
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/vasu-kumar-palani/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/vasu_kumar_palani/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><a href="https://twitter.com/Vasu_kumar3"><img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
+<a href="https://www.linkedin.com/in/charvik-rachakonda-89367720a/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/vasu_kumar_palani/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><a href="https://twitter.com/Vasu_kumar3"><img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
 </a>
 <br><br>
 
